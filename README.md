@@ -8,3 +8,6 @@ The used dataset (<brdata/df_products_details.pkl</br) has been created by scrap
 
 <b>The logic</b>: <br>
 A user gives a text query and a product category. So, the search engine searches for the products that belong to the specific category and their title is relevant to the query. 
+
+Dimosthenis Beleveslis <br>
+dimbele4@gmail.com
